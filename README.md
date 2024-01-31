@@ -1,8 +1,7 @@
+![Logo](https://www.simplilearn.com/ice9/free_resources_article_thumb/data_analyticstrendsmin.jpg)
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sonalijoshithakar.github.io/My-Portfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sonali-joshi-thakar-18268860)
-
-
 
 
 ## 🚀 About Me
@@ -15,7 +14,7 @@ Outside of crunching numbers, and analysing business scenarios. I am dedicated t
 If you have a mound of data waiting to be deciphered or need some fresh eyes to find the hidden patterns, drop me a line at sonalijoshithakar@gmail.com.
 I'd love to explore how we can make your data work for you!
 
-Skills: Data Mining, ETL, Predictive Modeling, powerBI, advance Excel, power query, MySQl, Java, python, Statistics, mathematics ,business analysis
+Skills: Data Mining, ETL, Predictive Modeling, powerBI, advance Excel, power query, MySQl, Java, python, Statistics, mathematics ,business analysis, business requirement gathering.
 
 # Project -- 1
 
