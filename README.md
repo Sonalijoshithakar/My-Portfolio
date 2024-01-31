@@ -69,6 +69,9 @@ Feel free to adapt and build upon this project for your own analysis. If you hav
 
 Happy analyzing!
   
-*Author: [Sonali Joshi]*
+*Author: [Sonali Joshi]
+
+## Project File
+https://github.com/Sonalijoshithakar/My-Portfolio/blob/main/chocolate%20company%20sales%20insights%20using%20excel.xlsx
 
 
