@@ -1,3 +1,22 @@
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Example Color | ![#2aa889](https://via.placeholder.com/10/00b48a?text=+) #2aa889 |
+
+
+## 🚀 About Me
+Numbers have always been my playground. From sudoku puzzles during my childhood to solving complex mathematical problems in high school, I've always found comfort in the logic and order that numbers bring. Turning that passion towards data analysis has been a natural progression for me.
+
+Apart from the data, I have always been very eager to know how the business run and how the finance works for the business , considering this interest I have completed my MBA in finance with 7.3 CGPA.
+
+Outside of crunching numbers, and analysing business scenarios. I am dedicated to yoga and reading. I find that both activities - one physical, one mental - help me stay focused and maintain balance in my life. I like to read about new tools and technology coming day to day in tech world. 
+
+If you have a mound of data waiting to be deciphered or need some fresh eyes to find the hidden patterns, drop me a line at sonalijoshithakar@gmail.com.
+I'd love to explore how we can make your data work for you!
+
+Skills: Data Mining, ETL, Predictive Modeling, powerBI, advance Excel, power query, MySQl, Java, python, Statistics, mathematics ,business analysis
+
 # My-Portfolio
 
 # Chocolate Company Sales Insights using Excel
