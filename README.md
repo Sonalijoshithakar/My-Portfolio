@@ -1,8 +1,4 @@
-## Color Reference
 
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#2aa889](https://via.placeholder.com/10/00b48a?text=+) #2aa889 |
 
 
 ## 🚀 About Me
@@ -17,11 +13,9 @@ I'd love to explore how we can make your data work for you!
 
 Skills: Data Mining, ETL, Predictive Modeling, powerBI, advance Excel, power query, MySQl, Java, python, Statistics, mathematics ,business analysis
 
-# My-Portfolio
+# Project -- 1
 
-# Chocolate Company Sales Insights using Excel
-
-# Awesome Chocolates Data Analysis Project
+## Chocolate Company Sales Insights using Excel
 
 Welcome to the **Awesome Chocolates Data Analysis Project** repository! This project focuses on analyzing chocolate company Sales data using Microsoft Excel. The dataset contains various insightful columns such as region, product name, total amount, total cost, sales person, and Country.
 
