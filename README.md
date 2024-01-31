@@ -71,7 +71,11 @@ Happy analyzing!
   
 *Author: [Sonali Joshi]
 
-## Project File
-https://github.com/Sonalijoshithakar/My-Portfolio/blob/main/chocolate%20company%20sales%20insights%20using%20excel.xlsx
+
+## Documentation
+
+[Documentation](https://1drv.ms/x/c/92e6d778f0efbd06/EVdYl-aluOFOsE-fEfhDukUBHqepWRr_56i-8emJOLEzZg?e=AVFf3A)
+
+
 
 
